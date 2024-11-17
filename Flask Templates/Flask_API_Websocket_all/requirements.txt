@@ -1,0 +1,6 @@
+# python3.10 is better
+flask==2.2.3
+flask-restx
+flask-socketio>=5.0.0
+bson
+Werkzeug==2.2.2

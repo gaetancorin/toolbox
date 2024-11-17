@@ -1,0 +1,16 @@
+API
+http://127.0.0.1:5001
+http://127.0.0.1:5001/api/version
+http://127.0.0.1:5001/api/session/id
+WEBSOCKET
+127.0.0.1:5001/frontend/{{UUID}}
+
+SEND by POSTMAN:
+hello
+hi
+
+RECEIVED on POSTMAN:
+hello_world
+respond_hi
+backend_version
+server_error
